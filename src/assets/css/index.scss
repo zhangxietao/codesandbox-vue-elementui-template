@@ -1,0 +1,18 @@
+$body-color: red;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.example {
+  color: aqua;
+  span {
+    color: hotpink;
+  }
+
+  .bk {
+    width: 100px;
+    height: 100px;
+  }
+}
